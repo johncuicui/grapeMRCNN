@@ -5,7 +5,6 @@ This is an example showing the use of Mask RCNN on grape detection and segmentat
 
 The code has been tested on Python 3.7.3,Tensorflow 1.14.0,Keras 2.2.4,and [Mask_RCNN](https://github.com/matterport/Mask_RCNN).
 
-<p align="Center">
-  <img src="assets/show/splash.jpg" width="250" title="hover text">
-  <img src="assets/show/detect.jpg.jpg" width="250" title="hover text">
-</p>
+![Instance Segmentation Sample](assets/show/splash.jpg)
+
+![Instance Segmentation Sample](assets/show/detect.jpg)
